@@ -9,7 +9,7 @@ to read the required information.\
 I have written this utility just for fun, no more.
 
 GCC, TCC or any other good C compiler is required to build the program.
-After setting up compiler, then configure and run `make.bat` script.
+After setting up compiler, configure and run `make.bat` script.
 
 Run `batinf0x -v` or `batinf0x --version` to display program version.
 
